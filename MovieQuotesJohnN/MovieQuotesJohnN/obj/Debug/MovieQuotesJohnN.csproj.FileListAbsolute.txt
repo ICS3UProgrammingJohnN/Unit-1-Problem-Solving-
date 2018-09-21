@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\MovieQuotesJohnN\MovieQuotesJohnN\bin\Debug\MovieQuotesJohnN.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\MovieQuotesJohnN\MovieQuotesJohnN\bin\Debug\MovieQuotesJohnN.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\MovieQuotesJohnN\MovieQuotesJohnN\bin\Debug\MovieQuotesJohnN.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\MovieQuotesJohnN\MovieQuotesJohnN\obj\Debug\MovieQuotesJohnN.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\MovieQuotesJohnN\MovieQuotesJohnN\obj\Debug\MovieQuotesJohnN.frmMovieQuotes.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\MovieQuotesJohnN\MovieQuotesJohnN\obj\Debug\MovieQuotesJohnN.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\MovieQuotesJohnN\MovieQuotesJohnN\obj\Debug\MovieQuotesJohnN.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\MovieQuotesJohnN\MovieQuotesJohnN\obj\Debug\MovieQuotesJohnN.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\MovieQuotesJohnN\MovieQuotesJohnN\obj\Debug\MovieQuotesJohnN.pdb

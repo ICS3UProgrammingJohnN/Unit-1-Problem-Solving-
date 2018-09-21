@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\MovingImagesJohnn\MovingImagesJohnn\bin\Debug\MovingImagesJohnn.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\MovingImagesJohnn\MovingImagesJohnn\bin\Debug\MovingImagesJohnn.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\MovingImagesJohnn\MovingImagesJohnn\bin\Debug\MovingImagesJohnn.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\MovingImagesJohnn\MovingImagesJohnn\obj\Debug\MovingImagesJohnn.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\MovingImagesJohnn\MovingImagesJohnn\obj\Debug\MovingImagesJohnn.frmMovingImages.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\MovingImagesJohnn\MovingImagesJohnn\obj\Debug\MovingImagesJohnn.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\MovingImagesJohnn\MovingImagesJohnn\obj\Debug\MovingImagesJohnn.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\MovingImagesJohnn\MovingImagesJohnn\obj\Debug\MovingImagesJohnn.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\MovingImagesJohnn\MovingImagesJohnn\obj\Debug\MovingImagesJohnn.pdb

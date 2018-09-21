@@ -1,0 +1,9 @@
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\ChangingAreaPerJohnN\ChangingAreaPerJohnN\bin\Debug\ChangingAreaPerJohnN.exe.config
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\ChangingAreaPerJohnN\ChangingAreaPerJohnN\bin\Debug\ChangingAreaPerJohnN.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\ChangingAreaPerJohnN\ChangingAreaPerJohnN\bin\Debug\ChangingAreaPerJohnN.pdb
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\ChangingAreaPerJohnN\ChangingAreaPerJohnN\obj\Debug\ChangingAreaPerJohnN.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\ChangingAreaPerJohnN\ChangingAreaPerJohnN\obj\Debug\ChangingAreaPerJohnN.frmChangingAreaPerimeter.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\ChangingAreaPerJohnN\ChangingAreaPerJohnN\obj\Debug\ChangingAreaPerJohnN.Properties.Resources.resources
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\ChangingAreaPerJohnN\ChangingAreaPerJohnN\obj\Debug\ChangingAreaPerJohnN.csproj.GenerateResource.Cache
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\ChangingAreaPerJohnN\ChangingAreaPerJohnN\obj\Debug\ChangingAreaPerJohnN.exe
+N:\StuShare\Semester 1 - Fall 2018\ICS3U Programming\Ngundeng, John (s251823)\Unit 1 (Problem Solving)\ChangingAreaPerJohnN\ChangingAreaPerJohnN\obj\Debug\ChangingAreaPerJohnN.pdb

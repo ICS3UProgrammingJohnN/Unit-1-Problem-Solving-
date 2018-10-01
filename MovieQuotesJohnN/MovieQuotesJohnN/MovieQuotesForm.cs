@@ -34,7 +34,7 @@ namespace MovieQuotesJohnN
         {
             // Text for the wizard of oz
             lblMovie.Text = "The Wizard Of Oz";
-            lblQuote.Text = "''Theres no place like home.''";
+            lblQuote.Text = "''There's no place like home.''";
         }
 
         private void scarfaceToolStripMenuItem_Click(object sender, EventArgs e)
